@@ -1,0 +1,6 @@
+D:\C++\GitHub Local Repository\ShakeC#\Shake\Shake\bin\Debug\Shake.exe.config
+D:\C++\GitHub Local Repository\ShakeC#\Shake\Shake\bin\Debug\Shake.exe
+D:\C++\GitHub Local Repository\ShakeC#\Shake\Shake\bin\Debug\Shake.pdb
+D:\C++\GitHub Local Repository\ShakeC#\Shake\Shake\obj\Debug\Shake.csprojResolveAssemblyReference.cache
+D:\C++\GitHub Local Repository\ShakeC#\Shake\Shake\obj\Debug\Shake.exe
+D:\C++\GitHub Local Repository\ShakeC#\Shake\Shake\obj\Debug\Shake.pdb
